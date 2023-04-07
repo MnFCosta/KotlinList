@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Steam Games</string>
+    <string name="dota">Dota 2</string>
+    <string name="fifa">FIFA 23</string>
+    <string name="csgo">Counter-Strike: Global Offensive</string>
+    <string name="re4">Resident Evil 4</string>
+    <string name="eurotruck">Euro Truck Simulator 2</string>
+    <string name="hogwarts">Hogwarts Legacy</string>
+    <string name="elden_ring">Elden Ring</string>
+    <string name="no_mans_sky">No Man\'s Sky</string>
+    <string name="rust">Rust</string>
+    <string name="pubg">PUBG: Battlegrounds</string>
+    <string name="stardew_valley">Stardew Valley</string>
+    <string name="dota_price">Gratuito p/ Jogar</string>
+    <string name="fifa_price">R$ 89,70</string>
+    <string name="csgo_price">Gratuito p/ Jogar</string>
+    <string name="re4_price">R$ 249,00</string>
+    <string name="eurotruck_price">$ 12,49</string>
+    <string name="hogwarts_price">R$ 249,99</string>
+    <string name="elden_ring_price">$ 249,90</string>
+    <string name="no_mans_sky_price">R$ 81,00</string>
+    <string name="rust_price">$ 103,49</string>
+    <string name="pubg_price">Gratuito p/ Jogar</string>
+    <string name="stardew_valley_price">R$ 24,99</string>
+</resources>
